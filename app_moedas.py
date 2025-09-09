@@ -46,3 +46,4 @@ if st.button("Buscar cotação"):
     else:
         # Caso haja erro na requisição, exibe uma mensagem de erro na interface
         st.error("Erro ao buscar a cotação.")
+ 
